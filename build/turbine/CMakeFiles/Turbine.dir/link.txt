@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libTurbine.a CMakeFiles/Turbine.dir/src/test.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libTurbine.a

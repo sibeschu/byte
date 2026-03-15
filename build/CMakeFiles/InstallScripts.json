@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/development/byte/build/cmake_install.cmake",
+		"D:/development/byte/build/turbine/cmake_install.cmake",
+		"D:/development/byte/build/editor/cmake_install.cmake",
+		"D:/development/byte/build/game/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
